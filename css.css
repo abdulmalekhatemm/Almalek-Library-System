@@ -1,0 +1,76 @@
+/* <style > */
+ul 
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background: #333;
+ }
+li
+  {
+float: left;
+border-right: 1px solid #bbb;
+  }
+li a 
+   {
+ color: white;
+ text-align: center;
+ padding: 15px;
+ text-decoration: none;
+ display: block;
+    }
+.l1
+    {
+    font-size: 24px;
+    color: #333;
+    text-align: right;
+    float: right;
+    padding: 5px;
+    }
+.f25
+    {
+    width: 75px;
+    float: right;
+    padding: 9px;
+    text-align: right;
+    }
+.f75
+    {
+    width: 70%;
+    float: right;
+    padding: 9px;
+    text-align: right;    
+    }
+.d1
+    {
+    background: #00ffff ; 
+    width:100%; 
+    height:500px; 
+    float: left;
+    }
+    .personal_btn
+    {
+      
+        background-color: green;
+        border : none;
+        color: white;
+        padding :15px 32px;
+        text-align: center;
+        display:inline;
+        margin: 4px 2px;
+        font: size 16px;
+        width: 100%;
+    
+
+
+    }
+    .personal_btn{
+  
+      text-decoration:none;
+    }
+      
+      
+   
+    
+    /* </style> */
