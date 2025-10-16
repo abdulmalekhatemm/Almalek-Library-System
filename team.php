@@ -31,7 +31,7 @@ include 'info.php'; ?>
 <img  src="1708189399176.jpg" width="200px" height="250px"> 
 <h2>عبد الملك</h2>
 <label> مهندس </label>  <br>
-<label> تطوريور ويب </label>
+<label>MERN => Mongdb Express REact Expresss </label>
 </center>
 </div>
 
