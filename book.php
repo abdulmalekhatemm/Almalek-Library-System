@@ -8,7 +8,8 @@
 <title>Books</title>
 </head>
 <body>
-<?php  
+<?php 
+/**Including Pages For Used */ 
 include 'css.css'; 
 include 'info.php';  ?>
 <center>

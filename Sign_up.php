@@ -7,20 +7,6 @@
 <title>Library Abdulmalek Alhomedy</title>
 </head>
 <body>
-<!--<style>
-.f25{
-width: 75px;
-float: right;
-padding: 0px;
-text-align: right;
-}
-.f75{
-width: 80%;
-float: right;
-text-align: right;
-padding: 9px;
-text-align: right;
-}</style>-->
 <center>
 <?php
 include 'css.css';

@@ -1,6 +1,8 @@
 <?php 
+/**Including Pages For Used */
 include 'css.css';
-include 'info.php'; ?>
+include 'info.php'; 
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

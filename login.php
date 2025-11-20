@@ -1,6 +1,6 @@
 <?php 
 //include 'css.css';  
-// session_unset();
+
 /* تستخدم لازلة جميع المتغيرات المسجلة في الجلسة الحالية */
 ?>
 <!DOCTYPE html>
