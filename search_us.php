@@ -1,4 +1,5 @@
-<?php //error_reporting(0);  ?>
+<?php //error_reporting(0);  happpen for used 
+//  ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

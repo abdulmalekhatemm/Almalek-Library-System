@@ -1,6 +1,6 @@
 <?php 
 //include 'css.css';  
-
+//Include File css Styles 
 /* تستخدم لازلة جميع المتغيرات المسجلة في الجلسة الحالية */
 ?>
 <!DOCTYPE html>

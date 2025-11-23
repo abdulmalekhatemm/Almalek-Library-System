@@ -1,5 +1,5 @@
 <?php 
-/**Including Pages For Used */
+/**Including Pages For Used  Coding and css */
 include 'info.php';
 include 'css.css';
 ?>
