@@ -101,6 +101,7 @@ $replay_date=$row['replay_date'] ;
     </center>
 </body>
 </html>
+<!-- 
 $filed9  = $_POST['filed9'];
 $filed10 = $_POST['filed10'];
 $filed11 = $_POST['filed11'];
@@ -119,4 +120,4 @@ $filed22 = $_POST['filed22'];
 filed9 = '$filed9', filed10  =   '$filed10', filed11 = '$filed11',filed12 = '$filed12',
 filed13 = '$filed13', filed14 = '$filed14',filed15 = '$filed15',filed16 = '$filed16',
 filed17 = '$filed17', filed18 = '$filed18',filed19 = '$filed19',filed20 = '$filed20',
-filed21 = '$filed21', filed22 = '$filed22' ";
+filed21 = '$filed21', filed22 = '$filed22' "; -->

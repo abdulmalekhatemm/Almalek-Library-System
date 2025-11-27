@@ -1,4 +1,5 @@
 <?php
+// The This Page For add users
 include '../connect.php';
 $The_user = $_GET['The_user'];
 $sql=" SELECT * FROM users WHERE The_user = '$The_user'";

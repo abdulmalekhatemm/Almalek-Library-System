@@ -1,4 +1,5 @@
 <?php
+// The This Page For add news
 include '../connect.php';
 $news=$_POST['news'];
 $sql ="INSERT INTO  ticher (news)

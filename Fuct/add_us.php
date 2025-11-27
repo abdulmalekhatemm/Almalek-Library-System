@@ -1,4 +1,5 @@
 <?php
+// The This Page For add us
 include '../connect.php';
 $the_name = $_POST['the_name'];
 $adress   = $_POST['adress'];

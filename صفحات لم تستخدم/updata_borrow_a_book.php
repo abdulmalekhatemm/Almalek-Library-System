@@ -14,6 +14,8 @@ header('Location:http://localhost/Project_Library/updata_borrow_a_book.php');
 //echo  $count ;               
 
 ?>
+
+
 <!--
 
 <td> <?php echo $row ['count_book']   ?> </td>	
