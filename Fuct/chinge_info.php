@@ -1,4 +1,5 @@
 <?php
+//This  page for change information 
 include '../connect.php';
 $filed1  = $_POST['filed1'];
 $filed2  = $_POST['filed2'];
