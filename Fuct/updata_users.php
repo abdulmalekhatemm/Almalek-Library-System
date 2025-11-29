@@ -1,4 +1,5 @@
 <?php
+//this page for update users 
 include '../connect.php';
 $id = $_POST['id'];
 $job = $_POST['job'];

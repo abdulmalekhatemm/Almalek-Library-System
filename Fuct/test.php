@@ -1,4 +1,5 @@
 <?php
+//this page for test 
 include '../connect.php';
 $almk_n1 = $_POST['almk_n1'];
 $almk_n2 = $_POST['almk_n2'];
