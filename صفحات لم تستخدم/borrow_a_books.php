@@ -1,4 +1,5 @@
 <?php
+//The this is includes page for used
 include '../connect.php';
 $the_book=$_GET['id'];
 session_start();

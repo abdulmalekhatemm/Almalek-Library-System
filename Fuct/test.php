@@ -1,5 +1,5 @@
 <?php
-//this page for test 
+//this page for test  for test page and when you implemention can see you that 
 include '../connect.php';
 $almk_n1 = $_POST['almk_n1'];
 $almk_n2 = $_POST['almk_n2'];

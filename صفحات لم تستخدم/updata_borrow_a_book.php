@@ -1,4 +1,5 @@
 <?php
+//The this page for updata borrow book 
 include '../connect.php';
 $id = $_POST['id'];
 $order_status = $_POST['order_status'];

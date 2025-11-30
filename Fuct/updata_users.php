@@ -1,5 +1,5 @@
 <?php
-//this page for update users 
+//this page for update  jop  where iduser 
 include '../connect.php';
 $id = $_POST['id'];
 $job = $_POST['job'];
