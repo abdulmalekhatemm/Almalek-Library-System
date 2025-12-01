@@ -1,5 +1,5 @@
 <?php
-//The this is includes page for used
+//The this is includes page for used and can connect with database i 
 include '../connect.php';
 $the_book=$_GET['id'];
 session_start();
