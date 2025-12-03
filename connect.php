@@ -1,4 +1,5 @@
 <?php
+// This Page Is Following for add and deleted
 $servername = 'localhost';
 $username = 'root';
 $password = ' ';

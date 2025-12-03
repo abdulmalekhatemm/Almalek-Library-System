@@ -2,6 +2,7 @@
  /**Including Pages For Used */
  include 'css.css'; 
  include 'list.php';
+//  this page is deleted and  deleted 
     ?>
     
 <!DOCTYPE html>
