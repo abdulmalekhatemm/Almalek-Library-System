@@ -7,6 +7,7 @@
 <title>كتاب جديد</title>
 </head>
 <body>
+   <!-- The Page Is For New_Boook  -->
 <center>
 <?php
 include 'css.css';

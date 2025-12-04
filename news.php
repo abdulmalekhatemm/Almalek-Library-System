@@ -7,6 +7,7 @@
 <title>news</title>
 </head>
 <body>
+   <!-- The News  -->
 <style>
 .f25{
 width: 75px;
